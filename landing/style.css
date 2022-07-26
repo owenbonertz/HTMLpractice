@@ -1,0 +1,72 @@
+/* style.css */
+body{
+  background: #ecf8f8;
+  color: white;
+  font-size: 25px;
+  font-family: Tahoma;
+  text-align: center;
+}
+h1{
+  font-family: Tahoma;
+  color: white;
+  font-weight: lighter;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: Tahoma;
+  color: white;
+  font-weight: lighter;
+  font-size: 38px;
+  text-align: center;
+}
+a {
+  color: #2B9720;
+  text-align: center;
+
+}
+a:hover {
+  text-decoration: none;
+  color: #ffc300;
+  text-align: center;
+}
+
+div {
+  background-color: #DECBB7;
+  border-color: #001D4A;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+/* Custom Design */
+
+#banner {
+  background-image: url(https://picsum.photos/800/400);
+  background-size: cover;
+  padding:  150px 0;
+  padding-bottom: 30px;
+  text-align: center;
+  color: floralwhite;
+}
+
+.icon {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background: #499167 ;
+}
+
+#footer{
+  border-radius: 5%;
+  background: #B7FDFE;
+  color: #A80874;
+}
+
+#footer a {
+  color: #A80874;
+  font-size: 20px;
+  text-align: right;
+}
+#footer a:hover {
+  color: white;
+}
